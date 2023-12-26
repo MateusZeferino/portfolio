@@ -91,6 +91,10 @@ body {
     font-weight: 600;
 }
 
+.X{
+    width: 15%;  
+}
+
 .apresentacao__link__titulo {
     font-family: var(--fonte-primaria);
     color: var(--cor-secundaria);
@@ -104,7 +108,7 @@ body {
 }
 
 .image{
-    width: 50%;
+    width: 40%;
 }
 
 .footer{
